@@ -1,8 +1,8 @@
 ## AWS
- * https://github.com/awslabs/aws-lambda-cpp
- * https://github.com/aws/aws-sdk-cpp
- * https://github.com/aws/aws-sdk-java
- * https://github.com/aws/aws-sdk-java-v2
+ * [aws-lambda-cpp](https://github.com/awslabs/aws-lambda-cpp)
+ * [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp)
+ * [aws-sdk-java](https://github.com/aws/aws-sdk-java)
+ * [aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
 
 ## C++
 
