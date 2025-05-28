@@ -91,6 +91,13 @@
  * [Zellij](https://github.com/zellij-org/zellij)
  * [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
+## Vehicle routing
+ * [jsprit](https://github.com/graphhopper/jsprit)
+ * [OSRM](https://github.com/Project-OSRM/osrm-backend)
+ * [Valhalla](https://github.com/valhalla/valhalla)
+ * [vroom](https://github.com/VROOM-Project/vroom)
+ * [vrp](https://github.com/reinterpretcat/vrp)
+
 ## Version control
  * [pijul](https://github.com/jneem/pijul)
  * [sapling](https://github.com/facebook/sapling)
