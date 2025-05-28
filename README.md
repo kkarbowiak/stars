@@ -110,5 +110,6 @@
  * [vrp](https://github.com/reinterpretcat/vrp)
 
 ## Version control
+ * [git](https://github.com/git/git)
  * [pijul](https://github.com/jneem/pijul)
  * [sapling](https://github.com/facebook/sapling)
