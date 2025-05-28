@@ -4,6 +4,9 @@
  * [aws-sdk-java](https://github.com/aws/aws-sdk-java)
  * [aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
 
+## Benchmarking
+ * [hyperfine](https://github.com/sharkdp/hyperfine)
+
 ## C++
 
 ### Compilers
