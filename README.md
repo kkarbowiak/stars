@@ -97,6 +97,11 @@
  * [Zellij](https://github.com/zellij-org/zellij)
  * [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
+## USB image tools
+ * [Etcher](https://github.com/balena-io/etcher)
+ * [rufus](https://github.com/pbatard/rufus)
+ * [Ventoy](https://github.com/ventoy/Ventoy)
+
 ## Vehicle routing
  * [jsprit](https://github.com/graphhopper/jsprit)
  * [OSRM](https://github.com/Project-OSRM/osrm-backend)
