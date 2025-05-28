@@ -58,6 +58,12 @@
  * [download-artifact](https://github.com/actions/download-artifact)
  * [upload-artifact](https://github.com/actions/upload-artifact)
 
+## JSON
+ * [glaze](https://github.com/stephenberry/glaze)
+ * [jq](https://github.com/jqlang/jq)
+ * [json](https://github.com/nlohmann/json)
+ * [simdjson](https://github.com/simdjson/simdjson)
+
 ## Programming languages
  * [Carbon](https://github.com/carbon-language/carbon-lang)
  * [Circle](https://github.com/seanbaxter/circle)
