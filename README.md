@@ -78,3 +78,7 @@
  * [tmux](https://github.com/tmux/tmux)
  * [Zellij](https://github.com/zellij-org/zellij)
  * [Zoxide](https://github.com/ajeetdsouza/zoxide)
+
+## Version control
+ * [pijul](https://github.com/jneem/pijul)
+ * [sapling](https://github.com/facebook/sapling)
