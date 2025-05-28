@@ -40,6 +40,12 @@
  * [VSCode](https://github.com/microsoft/vscode)
  * [Zed](https://github.com/zed-industries/zed)
 
+## GitHub actions
+ * [cache](https://github.com/actions/cache)
+ * [checkout](https://github.com/actions/checkout)
+ * [download-artifact](https://github.com/actions/download-artifact)
+ * [upload-artifact](https://github.com/actions/upload-artifact)
+
 ## Programming languages
  * [Carbon](https://github.com/carbon-language/carbon-lang)
  * [Circle](https://github.com/seanbaxter/circle)
