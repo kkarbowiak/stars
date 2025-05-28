@@ -33,6 +33,13 @@
  * [snitch](https://github.com/snitch-org/snitch)
  * [trompeloeil](https://github.com/rollbear/trompeloeil)
 
+## Code editors
+ * [Cursor](https://github.com/getcursor/cursor)
+ * [Kakoune](https://github.com/mawww/kakoune)
+ * [Micro](https://github.com/zyedidia/micro)
+ * [VSCode](https://github.com/microsoft/vscode)
+ * [Zed](https://github.com/zed-industries/zed)
+
 ## Programming languages
  * [Carbon](https://github.com/carbon-language/carbon-lang)
  * [Circle](https://github.com/seanbaxter/circle)
