@@ -46,6 +46,9 @@
  * [VSCode](https://github.com/microsoft/vscode)
  * [Zed](https://github.com/zed-industries/zed)
 
+## CUDA
+ * [CUDA samples](https://github.com/NVIDIA/cuda-samples)
+
 ## GitHub actions
  * [cache](https://github.com/actions/cache)
  * [checkout](https://github.com/actions/checkout)
