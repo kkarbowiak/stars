@@ -51,6 +51,16 @@
  * [Rust](https://github.com/rust-lang/rust)
  * [Zig](https://github.com/ziglang/zig)
 
+## Profiling
+ * [AeonProfiler](https://github.com/botman99/AeonProfiler)
+ * [coz](https://github.com/plasma-umass/coz)
+ * [funtrace](https://github.com/yosefk/funtrace)
+ * [hotspot](https://github.com/KDAB/hotspot)
+ * [orbit](https://github.com/google/orbit)
+ * [perfetto](https://github.com/google/perfetto)
+ * [perforator](https://github.com/zyedidia/perforator)
+ * [tracy](https://github.com/wolfpld/tracy)
+
 ## Terminal tools
  * [Atuin](https://github.com/atuinsh/atuin)
  * [bat](https://github.com/sharkdp/bat)
