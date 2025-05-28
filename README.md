@@ -50,3 +50,15 @@
  * [Ruby](https://github.com/ruby/ruby)
  * [Rust](https://github.com/rust-lang/rust)
  * [Zig](https://github.com/ziglang/zig)
+
+## Terminal tools
+ * [Atuin](https://github.com/atuinsh/atuin)
+ * [bat](https://github.com/sharkdp/bat)
+ * [entr](https://github.com/eradman/entr)
+ * [fd](https://github.com/sharkdp/fd)
+ * [fzf](https://github.com/junegunn/fzf)
+ * [sd](https://github.com/chmln/sd)
+ * [thefuck](https://github.com/nvbn/thefuck)
+ * [tmux](https://github.com/tmux/tmux)
+ * [Zellij](https://github.com/zellij-org/zellij)
+ * [Zoxide](https://github.com/ajeetdsouza/zoxide)
