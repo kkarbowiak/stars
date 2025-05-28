@@ -32,3 +32,14 @@
  * [googletest](https://github.com/google/googletest)
  * [snitch](https://github.com/snitch-org/snitch)
  * [trompeloeil](https://github.com/rollbear/trompeloeil)
+
+## Programming languages
+ * [Carbon](https://github.com/carbon-language/carbon-lang)
+ * [Circle](https://github.com/seanbaxter/circle)
+ * [D](https://github.com/dlang/dmd)
+ * [Gwion](https://github.com/Gwion/Gwion)
+ * [Nim](https://github.com/nim-lang/Nim)
+ * [Python](https://github.com/python/cpython)
+ * [Ruby](https://github.com/ruby/ruby)
+ * [Rust](https://github.com/rust-lang/rust)
+ * [Zig](https://github.com/ziglang/zig)
