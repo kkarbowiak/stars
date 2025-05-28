@@ -88,6 +88,7 @@
 ## Terminal tools
  * [Atuin](https://github.com/atuinsh/atuin)
  * [bat](https://github.com/sharkdp/bat)
+ * [delta](https://github.com/dandavison/delta)
  * [entr](https://github.com/eradman/entr)
  * [fd](https://github.com/sharkdp/fd)
  * [fzf](https://github.com/junegunn/fzf)
