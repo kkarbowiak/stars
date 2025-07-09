@@ -130,6 +130,7 @@
  * [high_impact](https://github.com/phoboslab/high_impact)
  * [ImHex](https://github.com/WerWolv/ImHex)
  * [just](https://github.com/casey/just)
+ * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
  * [mold](https://github.com/rui314/mold)
  * [MuseScore](https://github.com/musescore/MuseScore)
  * [parallel sudoku solver](https://github.com/vduan/parallel-sudoku-solver)
