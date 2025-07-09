@@ -44,6 +44,7 @@
 
 ## Code editors
  * [Cursor](https://github.com/getcursor/cursor)
+ * [Edit](https://github.com/microsoft/edit)
  * [Kakoune](https://github.com/mawww/kakoune)
  * [Micro](https://github.com/zyedidia/micro)
  * [VSCode](https://github.com/microsoft/vscode)
